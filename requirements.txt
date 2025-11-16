@@ -3,5 +3,4 @@ tensorflow
 opencv-python-headless
 numpy
 pillow
-protobuf==3.20.*
-h5py
+protobuf
