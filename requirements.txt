@@ -1,6 +1,5 @@
 streamlit
 tensorflow
-opencv-python-headless
 numpy
-pillow
-protobuf
+opencv-python-headless
+Pillow
